@@ -4,7 +4,11 @@
 #### Mathematical problem solver
 
 
-Skills: Matlab/Maple/Latex/Mathematica
+Skills: 
+✅Matlab
+✅Maple
+✅Latex
+✅Mathematica
 
 - 🔭 I’m currently working on Student 
 
