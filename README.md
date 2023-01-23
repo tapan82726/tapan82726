@@ -5,9 +5,9 @@
 
 
 Skills: 
-✅Matlab
-✅Maple
-✅Latex
+✅Matlab/
+✅Maple/
+✅Latex/
 ✅Mathematica
 
 - 🔭 I’m currently working on Student 
